@@ -1,0 +1,2 @@
+type : daily
+type : monthly
